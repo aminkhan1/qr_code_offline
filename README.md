@@ -36,17 +36,7 @@ cd qr_generator
 
 # 2. Install dependencies
 flutter pub get
-
-# 3. Add Vazirmatn font files to assets/fonts/
-#    Download from: https://github.com/rastikerdar/vazirmatn/releases/latest
-#    Required files:
-#      assets/fonts/Vazirmatn-Regular.ttf
-#      assets/fonts/Vazirmatn-Medium.ttf
-#      assets/fonts/Vazirmatn-SemiBold.ttf
-#      assets/fonts/Vazirmatn-Bold.ttf
-#      assets/fonts/Vazirmatn-Black.ttf
-
-# 4. Run
+# 3. Run
 flutter run
 ```
 
